@@ -1,0 +1,29 @@
+http://developer.valvesoftware.com/wiki/Ricochet_Level_Creation/Pad
+http://developer.valvesoftware.com/wiki/Ricochet_Level_Creation/Jump_arrow
+http://developer.valvesoftware.com/wiki/Ricochet_Level_Creation/Deflector
+http://developer.valvesoftware.com/wiki/Ricochet_Level_Creation/Teleport
+
+* VALVE - Original Ricochet game
+* ABC Studios - Creator of voice sounds
+
+// =================================================
+
+
+I Aim good
+Kill or decapitate 3 enemies without falls and misses
+
+One Shot, Two Birds
+Achieve multi kill with one disc 50 times
+
+I'm Feeling Ground Under My Legs
+Complete round without any fall
+
+You Can't Drop Me
+Be on platform after you get punched by disc
+
+Enemy of my enemy is my enemy
+Kill enemy who killed enemy who was attacking you ROFL
+
+i am teh baddie
+hit 5 people without killing them in 1 life
+

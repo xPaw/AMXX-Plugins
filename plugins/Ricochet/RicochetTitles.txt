@@ -1,0 +1,15 @@
+[en]
+RC_POW_TRIPLE = Triple Shot
+RC_POW_FAST = Fast Shot
+RC_POW_POWER = Power Shot
+RC_POW_FREEZE = Freeze Shot
+
+RC_HIT_DIRECT = Direct Hit Kill! 1 Point!
+RC_HIT_ONE = Single Rebound Kill! 2 Points!
+RC_HIT_TWO = Double Rebound Kill! 3 Points!
+RC_HIT_THREE = Triple Rebound Kill! 4 Points!
+RC_HIT_DECAP = Decapitation! 1 Point!
+RC_HIT_MULTIPLE = Multiple Kill Disc! 5 Points!
+RC_HIT_TELEPORT = Teleport Bonus! 1 Point!
+
+RC_FRAG_LIMIT = Frag limit reached.
