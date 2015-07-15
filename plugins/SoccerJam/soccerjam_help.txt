@@ -1,0 +1,24 @@
+[en]
+HELP_HEADER = SoccerJam Help
+HELP_TITLE = Soccer Jam Help
+HELP_MOVES_TITLE = MOVES
+HELP_MOVES_KICK = Kick - ^"Use^" or default ^"E^" key
+HELP_MOVES_CURVELEFT = Curve Ball Left - ^"radio1^" or default ^"Z^" key
+HELP_MOVES_CURVERIGHT = Curve Ball Right - ^"radio2^" or default ^"X^" key
+HELP_MOVES_TURBO = Turbo - ^"Drop^" or default ^"G^" key
+HELP_MOVES_UPGRADE = Upgrades - ^"Lastinv^" or default ^"Q^" key
+HELP_MOVES_DIVE = Dive - Move left/right + Jump
+HELP_MOVES_CATCH = Catch - Run into the ball
+HELP_STATS_TITLE = STATS
+HELP_STATS_STAMINA = Stamina - User gains more health.
+HELP_STATS_STRENGTH = Strength - Allows stronger kicking and more chance to harm someone with ball.
+HELP_STATS_AGILITY = Agility - Increases the players speed.
+HELP_STATS_DEXTERITY = Dexterity - Increases player's chance of catching ball.
+HELP_STATS_DISARM = Disarm - Increases duration of knife disarm and chance of ball disarm.
+HELP_POWERPLAY_TITLE = Power Play
+HELP_POWERPLAY_ONE = Power Play gives bonus to Strength & Agility.
+HELP_POWERPLAY_TWO = Passing to different teammates increases its level.
+HELP_TIPS_TITLE = TIPS
+HELP_TIPS_ONE = Use your experience when available, it is valuable help needed.
+HELP_TIPS_TWO = For more control kicking, vary how high or low you aim.
+HELP_TIPS_THREE = Holding your kick key <b>can</b> improve catching.
