@@ -1,7 +1,7 @@
 #include < amxmodx >
 #include < fakemeta >
 
-new const g_szAdvert[ ] = "You are playing on^nmY.RuN Server^n^nPlease visit^nwww.my-run.eu.com";
+new const g_szAdvert[ ] = "You are playing on^nmY.RuN Server^n^nPlease visit^nwww.my-run.de";
 
 enum {
 	TUTOR_RED = 1,	// FRIEND DIED

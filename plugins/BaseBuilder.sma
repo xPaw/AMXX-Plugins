@@ -19,9 +19,9 @@ const RIFLE_WEAPONS_BIT		 = ( 1 << CSW_FAMAS | 1 << CSW_GALIL | 1 << CSW_AK47 | 
 const MACHINE_WEAPONS_BIT	 = ( 1 << CSW_M249 );
 const PRIMARY_WEAPONS_BIT	 = ( SHOTGUN_WEAPONS_BIT | SUBMACHINE_WEAPONS_BIT | RIFLE_WEAPONS_BIT | MACHINE_WEAPONS_BIT );
 
-new const g_szGamename[ ]	  = "[ my-run.eu.com ]";
+new const g_szGamename[ ]	  = "[ my-run.de ]";
 new const g_szZombieHand[ ]	= "models/myrun/bb_hand.mdl";
-new const g_szMotdFile[ ]	  = "http://my-run.eu.com/BaseBuilderMod.php";
+new const g_szMotdFile[ ]	  = "http://my-run.de/BaseBuilderMod.php";
 new const g_szMotdTitle[ ]	 = "Base Builder Rules";		// Motd Title
 new const g_szDeclineReason[ ] = "Rules Rejected";		// Kick Reason (Terms Rejected)
 
