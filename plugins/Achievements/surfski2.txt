@@ -1,0 +1,58 @@
+Achievements for Surf Ski 2
+
+I Am Legend
+-Kill as last one the complete enemy team
+
+Wait a jiffy!
+-Kill 30 enemies while they are reloading their weapons
+
+Ready or not..
+-Kill an enemy 3 seconds after the round starts
+
+New Revolution
+-Kill 50 enemies that are in air, and has 35 hp or lower
+
+Logos are my trademark!
+-Spray 200 decals
+
+Future on End
+-Kill 25 enemies with "<i>Leone YG1265 Auto Shotgun</i>" <b>(This achievement will grant you access to buy a m3)</b>
+
+My Future has begun!!
+-Kill 50 enemies with  "<i>Leone 12 Gauge Super</i>" <b>(This achievement required 'Future on end')</b>
+
+Codename: #21
+-Spent 1 hour playing as terrorist on the server
+
+Codename: #22
+-Spent 1 hour playing as counter-terrorist on the server
+
+Does It Hurt When I Do This?
+-Get killed 100 times by environmental damage
+
+Day Marathon
+-Spent 1 day playing on server
+
+Preventive Action
+- Kill an enemy with knife each round for 5 consecutive rounds
+
+Addict
+-Join the server 500 times
+
+Graffiti is my second name
+-Spray 8 times in one round
+
+Rambo... something different
+-After killing an enemy with "<i>M249</i>" shoot your clip empty without stopping
+
+Safty investments
+-Spent more than 300.000$ for weapons/suites/armors
+
+Departed
+-Win 15 successful knife fights
+
+Limitless
+-Enter the weapons room and mario room wihtout receiving damage.
+
+Price for developers
+-Seen 5 diffrently profiles by achievements
