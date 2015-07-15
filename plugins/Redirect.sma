@@ -126,38 +126,6 @@ public TaskResetInfo( const id )
 	}
 }
 
-public client_authorized( id )
-{
-	new iMaxPlayers = get_maxplayers( ) - RESERVED_SLOTS, iPlayers = get_playersnum( 1 );
-	
-	if( iPlayers <= iMaxPlayers || ( get_user_flags( id ) & ADMIN_RESERVATION ) )
-	{
-		return;
-	}
-	
-	iPlayers = ArraySize( g_aServers );
-	
-	new aServer[ ServerData ];
-	ArrayGetArray( g_aServers, random_num( 0, iPlayers - 1 ), aServer );
-	
-	client_cmd( id, "setinfo ^"myrun^" ^"%i^";^"connect^" %s", g_iOwnServer, aServer[ Server_Addr ] );
-	//;^"connect^"
-	static Float:flLastMessage;
-	new Float:flGameTime = get_gametime( );
-	
-	if( flLastMessage > flGameTime )
-	{
-		return;
-	}
-	
-	flLastMessage = flGameTime + 5.0;
-	
-	new szName[ 32 ];
-	get_user_name( id, szName, 31 );
-	
-	ColorChat( 0, Red, "[ mY.RuN ]^4 %s^1 has been redirected to^4 %s^1.", szName, aServer[ Server_Name ] );
-}
-
 public CmdServers( const id )
 {
 	menu_display( id, g_iMenu );
