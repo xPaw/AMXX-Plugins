@@ -937,7 +937,9 @@ public NativeSetComponentBit( const iPlugin, const iParams ) {
 		return;
 	
 	if( get_playersnum( ) <= 2 ) {
+#if defined USE_TUTOR
 		UTIL_ShowTutor( id, TUTOR_RED, 4.0, "Ignoring achievement progress^ndue to lack of players." );
+#endif
 		
 		return;
 	}
