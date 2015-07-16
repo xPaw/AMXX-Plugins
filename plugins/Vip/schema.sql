@@ -1,0 +1,19 @@
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+CREATE TABLE IF NOT EXISTS `Vips` (
+`Id` int(2) NOT NULL,
+  `SteamId` varchar(34) COLLATE utf8_bin NOT NULL DEFAULT '',
+  `Name` varchar(32) COLLATE utf8_bin NOT NULL,
+  `VipSince` int(20) NOT NULL,
+  `Time` int(8) NOT NULL DEFAULT '3600',
+  `LastJoin` int(20) NOT NULL DEFAULT '0'
+) ENGINE=InnoDB AUTO_INCREMENT=80 DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+
+
+ALTER TABLE `Vips`
+ ADD UNIQUE KEY `SteamId` (`SteamId`) USING BTREE, ADD KEY `Id` (`Id`) USING BTREE;
+
+
+ALTER TABLE `Vips`
+MODIFY `Id` int(2) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=1;
