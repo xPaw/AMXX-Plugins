@@ -1,1 +1,7 @@
 * text=auto
+
+*.tga binary
+*.spr binary
+*.mdl binary
+*.wav binary
+*.mp3 binary
