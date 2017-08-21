@@ -1,0 +1,35 @@
+/* Dirty hacks all the way! */
+
+.stats-top .avatar img {
+	margin: 10px;
+}
+
+ul.stats li {
+	margin-bottom: 1px;
+}
+
+.achiev .txtHolder .right {
+	padding-right: 20px;
+}
+
+.achiev .txtHolder .progressbar {
+	margin-left: 0px;
+}
+
+.achiev .txtHolder .progresstxt {
+	text-align: left;
+}
+
+.stats-top h2 {
+	padding-top: 8px;
+}
+
+/* That's how we center things in IE */
+/*body {
+	text-align: center;
+}
+
+#container {
+	margin: auto;
+	text-align: left;
+}*/
