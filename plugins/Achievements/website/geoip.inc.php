@@ -1,15 +1,5 @@
 <?php
 class GeoIP {
-	/********************************************
-	 * GEOIP LIGHT by xPaw <xpaw.ru>
-	 *
-	 * Speed tests:
-	 *   5.0114 seconds - 65536 ips scanned - 48128 ips found - xPaw - Memory cached = true
-	 *   6.8765 seconds - 65536 ips scanned - 49636 ips found - xPaw - Memory cached = false (default)
-	 *  14.0187 seconds - 65536 ips scanned - 49636 ips found - MaxMind - GEOIP_MEMORY_CACHE
-	 *  18.2224 seconds - 65536 ips scanned - 49636 ips found - MaxMind - GEOIP_STANDARD (default)
-	 ********************************************/
-	
 	private $GEOIP_COUNTRY_NAMES = Array(
 		"", "Asia/Pacific Region", "Europe", "Andorra", "United Arab Emirates",
 		"Afghanistan", "Antigua and Barbuda", "Anguilla", "Albania", "Armenia",
