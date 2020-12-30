@@ -353,7 +353,7 @@
 	
 	<div id="footer">
 		Page generated in <span class="kzTime"><?php echo $ShowTime; ?></span> seconds.<br>
-		Kreedz Top &copy; 2011-2012 by <a href="http://xpaw.ru">xPaw</a>.<br>
+		Kreedz Top &copy; 2011-2012 by xPaw.<br>
 	</div>
 </div>
 </body>
